@@ -24,7 +24,7 @@
     "dependencies": {
         "@graphql-codegen/plugin-helpers": "^5.0.0",
         "@graphql-tools/apollo-engine-loader": "^8.0.0",
-        "graphql": "^16.7.1"
+        "graphql": "^16.9.0"
     },
     "files": [
         "lib"
